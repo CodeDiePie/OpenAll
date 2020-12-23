@@ -1,7 +1,7 @@
 # OpenAll
 
 Thank you for choosing to download and try my open source multitasking app. this app is
-intended to improve workflow by opening a set group of apps with a single button click.
+intended to improve workflow by opening a set group of apps, or any executable file type with a single button click.
 
 upon closing OpenAll a save.txt file will be created containing the list of previously set apps.
 at this time there is not a function for removing an individual app, instead
